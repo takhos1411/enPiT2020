@@ -12,6 +12,7 @@
 **/.idea/dynamic.xml
 **/.idea/uiDesigner.xml
 
+!.gitkeep
 /out/
 /target/
 /.idea
