@@ -3,10 +3,11 @@ JavaEE用プロジェクトのひな形
 This is a template project for JavaEE projects
 
 # System Environment
-
-* Java: openjdk version 12.0.1
+This project has been tested in the following setup:
+このプロジェクトは下記の環境で動作確認してあります：
+* Java: openjdk version 12.0.2
 * JavaEE: javaee-api 8.0.1
-* AS: WildFly 17.0.0
+* AS: WildFly 17.0.1 Final
 * View: JSF 2.2, foundation 6
 * IDE: Intellij IDEA or Maven
 
