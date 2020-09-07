@@ -9,6 +9,8 @@
     <ui:define name="page_title">#{res.title_top}</ui:define>
     <ui:define name="content">
         <h1>#{res.label_index_message}</h1>
+        <h:button outcome="/jyanken/select" value="#{res.button_go_jyanken}" class="button" /> <br />
+        <h:button outcome="/knowledge/list" value="#{res.label_knowledge_list}" class="button" /> <br />
     </ui:define>
 </ui:composition>
 </h:body>
